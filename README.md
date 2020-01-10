@@ -1,4 +1,6 @@
-# Frontend Mentor - Four card feature section
+# Frontend Mentorからのコーデングチャレンジをやってみました。
+##　チャレンジとしてはサイトのデザインが与えられ、なるべくデザイン通りに作るようにすることである
+
 
 ![Design preview for the Four card feature section coding challenge](./design/desktop-preview.jpg)
 
